@@ -105,7 +105,8 @@ class _MovieDetailScreenState extends State<MovieDetailScreen> {
                                 colors: [
                                   Colors.black.withOpacity(0.9),
                                   Colors.black.withOpacity(0.0)
-                                ]),
+                                ],
+                            ),
                           ),
                         ),
                       ],
